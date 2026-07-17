@@ -48,9 +48,9 @@ A lo largo del cuatrimestre se cubrieron los siguientes módulos de aprendizaje:
 ## 📂 4. Documentación del Proyecto
 
 El avance y entrega del proyecto final se dividió en dos hitos clave:
+## 📂 4. Documentación del Proyecto
 
-1. **Pre-entrega (Hito de Diseño):** 
-   * [Plan de Pruebas (Test Plan)](./Plan_de_Pruebas_Talento_Lab.md) *(Estrategia, alcance y criterios de aceptación)*.
-   * **Matriz de Casos de Prueba** *(Estructura y diseño de los escenarios funcionales y negativos)*.
-2. **Entrega Final (Hito de Ejecución):**
-   * **Reporte de Ejecución y Defectos (Bug Log)** *(Documentación técnica y paso a paso de los errores encontrados)*.
+El avance y entrega del proyecto final se completó de forma integrada en el siguiente documento:
+
+* [📄 Proyecto Final Completo (PDF)](./Proyecto%20Final_Talento%20Lab%20MARIA%20GRILLO.pdf)  
+  *(Contiene el Plan de Pruebas, la estrategia de calidad, la matriz con el diseño de escenarios y el historial de errores encontrados).*
