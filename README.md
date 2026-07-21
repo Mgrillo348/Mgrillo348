@@ -1,68 +1,74 @@
-# 💎 **Analista QA Junior / María Grillo** 💎
+<h2 align="center">💎 Analista QA Junior / María Grillo 💎</h2>
 
-
-Orientada al aseguramiento de la calidad del software y en proceso de consolidación profesional. Mi enfoque actual se centra en fortalecer mis competencias en **análisis funcional, diseño de casos de prueba y gestión de defectos**, con el objetivo de aportar valor en proyectos de desarrollo de software desde un rol técnico inicial.
-
-Valoro el trabajo en equipos multidisciplinarios. Mi participación en simulaciones de proyectos reales me ha permitido colaborar activamente con desarrolladores y diseñadores, facilitando una comunicación técnica efectiva y comprendiendo el impacto de la gestión de calidad en el ciclo de vida del desarrollo de software.
-
-Formación en Talento Lab (Argentina), complementada con práctica intensiva en testing manual en No Country
-
-## 🛠️ Mi Stack Técnico y Metodológico
-
-### 🧪 Quality Assurance & Testing
-* **Tipos de Pruebas:** Pruebas Funcionales (Caja Negra), Smoke Testing, Pruebas de Regresión, Pruebas de Usabilidad, Pruebas Exploratorias y Pruebas de Integración.
-* **Diseño de Pruebas:** Elaboración de Planes de Prueba, Test Cases, Checklists y preparación de Datos de Prueba.
-* **Gestión de Defectos:** Reporte detallado de bugs, priorización y seguimiento del ciclo de vida del defecto.
-
-### ⚙️ Herramientas y Tecnologías
-* **Gestión y Seguimiento:** Jira Software, Zephyr,  Trello.
-* **API Testing:** Postman, Insomnia (validación de respuestas, códigos de estado HTTP, JSON y flujos de integración).
-* **Control de Versiones:** Git y GitHub.
-
-### 🐍 Aprendizaje Continuo (Automation)
-* Actualmente expandiendo mis habilidades técnicas en **QA Automation** mediante el estudio de lógica, sintaxis y estructuras en **Python** para la automatización de scripts de prueba iniciales.
-
+<p align="center">
+  <img src="https://img.shields.io/badge/-Orientada%20al%20Aseguramiento%20de%20Calidad-00C7B7?style=flat&logo=shippable&logoColor=white" alt="QA Status Badge">
+  <img src="https://img.shields.io/badge/-Testing%20Manual%20Especialista-4CAF50?style=flat&logo=checkmarx&logoColor=white" alt="Manual Testing Badge">
+  <img src="https://img.shields.io/badge/-Agile%20Scrum-673AB7?style=flat&logo=scrumalliance&logoColor=white" alt="Agile Badge">
+</p>
 
 ---
 
-## 👥 Metodologías de Trabajo
-* **Marcos Ágiles:** Trabajo diario bajo metodologías **Scrum** y **Agile**.
-* **Instancias de equipo:** Participación activa en Daily, Sprint Planning, Sprint Reviews y Retrospectivas.
-* **Habilidades Blandas:** Comunicación asertiva y técnica con desarrolladores para agilizar la resolución de bloqueos, mentalidad analítica, atención al detalle y adaptabilidad al cambio.
+<p align="center">
+  <b>Analista QA Junior orientada a resultados, con enfoque en análisis funcional y diseño de pruebas.</b><br>
+  He colaborado en equipos multidisciplinarios simulando entornos de desarrollo reales (Talento Lab & No Country).
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/maria-grillo-72bab616a" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Maria Grillo">
+  </a>
+  <a href="https://docs.google.com/document/d/1DFtK8W3hmoNN5VMFCukmk6ArxJYAV0ZYz7pnGTgUguI/edit?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/-VER%20MI%20CV-000000?style=flat" alt="Boton Ver Mi CV">
+  </a>
+</p>
 
 ---
 
-## 📈 Mis Proyectos Destacados (Simulaciones de Trabajo Real)
+<div align="left" style="display: flex; align-items: flex-start;">
+  <div style="flex: 1;">
 
-### 📱 1. CRM para Startups (No Country — Equipo-72)
-* 🔗 [Repositorio del Proyecto](https://github.com/No-Country-simulation/S06-26-NC-EQUIPO--72)
-* 🏅 [Certificación de Simulación (Junio 2026)](https://nocountry.tech/simulacion-laboral-junio-2026/cmq1z3ova00afi20156b11b0s)
+### 🛠️ Mis Skills / Mi Stack
 
-Plataforma CRM orientada a startups para la gestión de leads y automatización de seguimientos mediante integraciones de WhatsApp y correo electrónico. Desarrollada de manera colaborativa bajo metodología Scrum.
+#### 🧪 Quality Assurance:
+<img src="https://img.shields.io/badge/-Pruebas%20Funcionales-00C7B7?style=flat-square" alt="QA Fnl">
+<img src="https://img.shields.io/badge/-Smoke%20Testing-4CAF50?style=flat-square" alt="Smoke">
+<img src="https://img.shields.io/badge/-Regresión-EF5350?style=flat-square" alt="Regression">
+<img src="https://img.shields.io/badge/-Usabilidad-FFCA28?style=flat-square" alt="Usability">
+<img src="https://img.shields.io/badge/-Exploratorias-673AB7?style=flat-square" alt="Exploratory">
+<img src="https://img.shields.io/badge/-Casos%20de%20Prueba-ffffff?style=flat-square" alt="Test Cases">
 
-* **Rol de QA:** Participé en la estrategia de pruebas funcionales y la validación de flujos de integración y comunicación.
-* **Aportes clave:** 
-  * Diseño de casos de prueba para el flujo de punta a punta.
-  * Pruebas de integración de APIs.
-  * Gestión de bugs en Github, manteniendo la trazabilidad desde el reporte hasta la resolución junto a desarrollo.
+#### ⚙️ Herramientas y Tecnologías:
+<img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman">
+<img src="https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira">
+<img src="https://img.shields.io/badge/-Zephyr-9FDB1D?style=flat-square" alt="Zephyr">
+<img src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" alt="Insomnia">
+<img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+
+#### 👥 Metodologías:
+<img src="https://img.shields.io/badge/-Scrum-673AB7?style=flat-square" alt="Scrum">
+<img src="https://img.shields.io/badge/-Agile-ffffff?style=flat-square" alt="Agile">
+
+#### 🐍 Aprendizaje Continuo (Automation):
+#### 🐍 Testing Automatizado (En aprendizaje):
+<img src="https://img.shields.io/badge/-Python%20Lógica%20&%20Sintaxis-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python Learning">
+
+  </div>
+  <div style="flex: 1; padding-top: 50px;">
+    <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/gifs/waving.gif" width="100%" alt="Ilustración QA">
+  </div>
+</div>
 
 ---
 
-### 💻 2. Aplicación Web Colaborativa (No Country — Equipo-13)
-* 🔗 [Repositorio del Proyecto](https://github.com/No-Country-simulation/S03-26-Equipo-13-Web-App)
-* 🏅 [Certificación de Simulación (Marzo 2026)](https://nocountry.tech/simulacion-laboral-marzo-2026/cmmmljwcg003xhw01atkytwt3)
+### 📈 Proyectos Destacados (Simulaciones de Trabajo Real)
 
-Solución de software web desarrollada en una simulación de trabajo de alta exigencia, colaborando en un equipo técnico de 6 profesionales (Backend, Full Stack, Product Owner y QA). El foco principal estuvo en la resolución de un desafío técnico de impacto real mediante metodologías ágiles.
+#### 📱 CRM para Startups (No Country — Equipo-72)
+*Plataforma para gestión de leads con integraciones de comunicación.*
+* **Rol de QA:** Diseño de casos de prueba E2E, pruebas de integración de APIs y gestión de bugs en Github.
+* [🔗 Repositorio del Proyecto](https://github.com/No-Country-simulation/S06-26-NC-EQUIPO--72) | [🏅 Certificación de Simulación (Junio 2026)](https://nocountry.tech/simulacion-laboral-junio-2026/cmq1z3ova00afi20156b11b0s)
 
-* **Rol de QA Analyst:** Planificación y ejecución de la estrategia de pruebas para asegurar la calidad y estabilidad de la solución entregada.
-* **Aportes clave:**
-* Diseño y ejecución de pruebas manuales para verificar que las funciones principales de la aplicación funcionaran correctamente.
-  * Pruebas de integración para comprobar la correcta comunicación de datos entre el Frontend y el Backend.
-  * Reporte estructurado y seguimiento de defectos en base a prioridades, agilizando la corrección de bugs antes del cierre de cada ciclo (Sprint).
- * Gestión de bugs en Jira
- 
-    
-## 📬 Medios de Contacto
-
-* 💼 **LinkedIn:** [linkedin.com/in/maria-grillo-72bab616a](https://www.linkedin.com/in/maria-grillo-72bab616a)
-* 📧 **Email:** [mariagrillo348@gmail.com](mailto:mariagrillo348@gmail.com)
+#### 💻 Aplicación Web Colaborativa (No Country — Equipo-13)
+*Desafío técnico en un equipo de 6 profesionales bajo alta exigencia.*
+* **Rol de QA Analyst:** Planificación y ejecución de estrategias de prueba para asegurar la calidad y estabilidad de la solución.
+* [🔗 Repositorio del Proyecto](https://github.com/No-Country-simulation/S03-26-Equipo-13-Web-App) | [🏅 Certificación de Simulación (Marzo 2026)](https://nocountry.tech/simulacion-laboral-marzo-2026/cmmmljwcg003xhw01atkytwt3)
